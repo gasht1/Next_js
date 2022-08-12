@@ -12,8 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}> 
-      <h1>hello</h1>
+      <h1>hello there</h1>
       </main>
+      <div className=""> come one</div>
+      <h3>go ahead</h3>
         
     </div>
   )
